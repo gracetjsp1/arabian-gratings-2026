@@ -221,7 +221,8 @@
         <div class="col-sm-6 col-md-6 col-lg-3">
             <div class="portfolio-item">
                 <div class="portfolio__img">
-                    <img src="/uploads/products/stainless-steel-products/pipes/industrial-pipe.jpg" alt="portfolio img">
+                    <img src="/uploads/products/stainless-steel-products/pipes/industrial-pipe.jpg"
+                        alt="portfolio img">
                 </div><!-- /.portfolio-img -->
                 <div class="portfolio__content">
                     <h4 class="portfolio__title"><a href="#">iIndustrial Pipe</a></h4>
@@ -229,5 +230,68 @@
             </div><!-- /.portfolio-item -->
         </div><!-- /.col-lg-4 -->
 
+    </div>
+</div>
+
+
+
+
+
+
+
+<div class="row">
+    <div class="col-12 col-md-6 pb-5">
+
+        <div class="portfolio-item">
+            <div class="portfolio__img">
+                <img src="/uploads/products/stainless-steel-products/puddle-flanges/1.jpg" alt="portfolio img">
+            </div>
+
+        </div>
+    </div>
+    <div class="col-12 col-md-6 pb-5">
+
+        <div class="portfolio-item">
+            <div class="portfolio__img">
+                <img src="/uploads/products/stainless-steel-products/puddle-flanges/2.jpg" alt="portfolio img">
+            </div>
+
+        </div>
+    </div>
+    <div class="col-12 col-md-6 pb-5">
+
+        <div class="portfolio-item">
+            <div class="portfolio__img">
+                <img src="/uploads/products/stainless-steel-products/puddle-flanges/3.jpg" alt="portfolio img">
+            </div>
+
+        </div>
+    </div>
+    <div class="col-12 col-md-6 pb-5">
+
+        <div class="portfolio-item">
+            <div class="portfolio__img">
+                <img src="/uploads/products/stainless-steel-products/puddle-flanges/4.jpg" alt="portfolio img">
+            </div>
+
+        </div>
+    </div>
+    <div class="col-12 col-md-6 pb-5">
+
+        <div class="portfolio-item">
+            <div class="portfolio__img">
+                <img src="/uploads/products/stainless-steel-products/puddle-flanges/5.jpg" alt="portfolio img">
+            </div>
+
+        </div>
+    </div>
+    <div class="col-12 col-md-6 pb-5">
+
+        <div class="portfolio-item">
+            <div class="portfolio__img">
+                <img src="/uploads/products/stainless-steel-products/puddle-flanges/6.jpg" alt="portfolio img">
+            </div>
+
+        </div>
     </div>
 </div>

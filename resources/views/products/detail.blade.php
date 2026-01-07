@@ -65,11 +65,9 @@
                         </h1>
 
                         <!-- Breadcrumb -->
+                        {{-- Breadcrumb --}}
                         <div class="d-flex justify-content-center">
                             <div class="page-breadcrumb">
-
-                                <a href="{{ url('/') }}">Home</a>
-                                <span>&gt;</span>
 
                                 <a href="{{ route('products.index') }}">Products</a>
                                 <span>&gt;</span>
@@ -78,15 +76,28 @@
                                     {{ $mainProduct->name }}
                                 </a>
 
-                                @if (isset($productDetail) && $productDetail->subSubCategory)
+                                {{-- Sub Category --}}
+                                @if (isset($subCategory))
                                     <span>&gt;</span>
-                                    <span class="current">{{ $productDetail->subSubCategory->name }}</span>
-                                @elseif(isset($productDetail) && $productDetail->subCategory)
+
+                                    <a href="{{ url('products/' . $mainProduct->slug . '/' . $subCategory->slug) }}"
+                                        class="{{ !isset($subSubCategory) ? 'current' : '' }}">
+                                        {{ $subCategory->name }}
+                                    </a>
+                                @endif
+
+                                {{-- Sub Sub Category --}}
+                                @if (isset($subSubCategory))
                                     <span>&gt;</span>
-                                    <span class="current">{{ $productDetail->subCategory->name }}</span>
+
+                                    <a href="{{ url('products/' . $mainProduct->slug . '/' . $subCategory->slug . '/' . $subSubCategory->slug) }}"
+                                        class="current">
+                                        {{ $subSubCategory->name }}
+                                    </a>
                                 @endif
 
                             </div>
+
                         </div>
 
                     </div>
