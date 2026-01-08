@@ -108,7 +108,7 @@
                                     $subCategory->slug,
                                     $subSub->slug
                                 ]) }}">
-                                    {{ $subSub->name }}
+                                   {{ \Illuminate\Support\Str::limit($subSub->name, 28) }}
                                 </a>
                             </h4>
 

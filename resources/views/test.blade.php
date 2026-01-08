@@ -19,7 +19,7 @@
 
         <div class="portfolio-item">
             <div class="portfolio__img">
-                <img src="/uploads/products/stainless-steel-products/transition-strips/2.jpg" alt="portfolio img">
+                <img src="/uploads/products/stainless-steel-products/transition-strips/2.jpg" alt="">
             </div>
 
         </div>
@@ -28,7 +28,7 @@
 
         <div class="portfolio-item">
             <div class="portfolio__img">
-                <img src="/uploads/products/stainless-steel-products/transition-strips/2.jpg" alt="portfolio img">
+                <img src="/uploads/products/stainless-steel-products/transition-strips/2.jpg" alt="">
             </div>
 
         </div>
@@ -69,7 +69,7 @@
 
         <div class="portfolio-item">
             <div class="portfolio__img">
-                <img src="/uploads/products/stainless-steel-products/transition-strips/2.jpg" alt="portfolio img">
+                <img src="/uploads/products/stainless-steel-products/transition-strips/2.jpg" alt="">
             </div>
 
         </div>
@@ -82,7 +82,7 @@
             <div class="portfolio-item">
                 <div class="portfolio__img">
                     <img src="assets/images/products/frp-grp-products/molded-grating/molded-grating.jpg"
-                        alt="portfolio img">
+                        alt="">
                 </div><!-- /.portfolio-img -->
                 <div class="portfolio__content">
                     <h4 class="portfolio__title"><a href="#">Molded Gratings</a></h4>
@@ -94,7 +94,7 @@
             <div class="portfolio-item">
                 <div class="portfolio__img">
                     <img src="assets/images/products/frp-grp-products/molded-grating/gritted-surface.jpg"
-                        alt="portfolio img">
+                        alt="">
                 </div><!-- /.portfolio-img -->
                 <div class="portfolio__content">
                     <h4 class="portfolio__title"><a href="#">Gritted Surface</a></h4>
@@ -106,7 +106,7 @@
             <div class="portfolio-item">
                 <div class="portfolio__img">
                     <img src="assets/images/products/frp-grp-products/molded-grating/meniscus-surface.jpg"
-                        alt="portfolio img">
+                        alt="">
                 </div><!-- /.portfolio-img -->
                 <div class="portfolio__content">
                     <h4 class="portfolio__title"><a href="#">Meniscus Surface</a></h4>
@@ -118,7 +118,7 @@
             <div class="portfolio-item">
                 <div class="portfolio__img">
                     <img src="assets/images/products/frp-grp-products/molded-grating/smooth-surface.jpg"
-                        alt="portfolio img">
+                        alt="">
                 </div><!-- /.portfolio-img -->
                 <div class="portfolio__content">
                     <h4 class="portfolio__title"><a href="#">Smooth Surface</a></h4>
@@ -137,98 +137,205 @@
         <div class="col-sm-6 col-md-6 col-lg-3">
             <div class="portfolio-item">
                 <div class="portfolio__img">
-                    <img src="/uploads/products/stainless-steel-products/pipes/stainless -steel-pipes-and-tubes.jpg"
-                        alt="portfolio img">
+                    <img src="/uploads/products/stainless-steel-products/wall-hand-rails/wall-fixed.jpg"
+                        alt="">
                 </div><!-- /.portfolio-img -->
                 <div class="portfolio__content">
-                    <h4 class="portfolio__title"><a href="#">Stainless Steel <br> Pipes & Tubes</a></h4>
+                    <h4 class="portfolio__title"><a href="#">Wall Fixed</a></h4>
                 </div><!-- /.portfolio-content -->
             </div><!-- /.portfolio-item -->
         </div><!-- /.col-lg-4 -->
         <div class="col-sm-6 col-md-6 col-lg-3">
             <div class="portfolio-item">
                 <div class="portfolio__img">
-                    <img src="/uploads/products/stainless-steel-products/pipes/ss-seamless-and-erw-pipes.jpg"
-                        alt="portfolio img">
+                    <img src="/uploads/products/stainless-steel-products/wall-hand-rails/2-ways-t-connector.jpg"
+                        alt="">
                 </div><!-- /.portfolio-img -->
                 <div class="portfolio__content">
-                    <h4 class="portfolio__title"><a href="#">SS Seamless & ERW <br> Pipes</a></h4>
+                    <h4 class="portfolio__title"><a href="#">2 Ways T <br>Connector “90°”</a></h4>
                 </div><!-- /.portfolio-content -->
             </div><!-- /.portfolio-item -->
         </div><!-- /.col-lg-4 -->
         <div class="col-sm-6 col-md-6 col-lg-3">
             <div class="portfolio-item">
                 <div class="portfolio__img">
-                    <img src="/uploads/products/stainless-steel-products/pipes/ms-and-gi-pipes.jpg" alt="portfolio img">
+                    <img src="/uploads/products/stainless-steel-products/wall-hand-rails/3-ways-t-connector.jpg"
+                        alt="">
                 </div><!-- /.portfolio-img -->
                 <div class="portfolio__content">
-                    <h4 class="portfolio__title"><a href="#">MS & GI Pipes</a></h4>
+                    <h4 class="portfolio__title"><a href="#">3 Ways T <br>Connector “90°”</a></h4>
                 </div><!-- /.portfolio-content -->
             </div><!-- /.portfolio-item -->
         </div><!-- /.col-lg-4 -->
         <div class="col-sm-6 col-md-6 col-lg-3">
             <div class="portfolio-item">
                 <div class="portfolio__img">
-                    <img src="/uploads/products/stainless-steel-products/pipes/cs-seamless-pipes-and-tubes.jpg"
-                        alt="portfolio img">
+                    <img src="/uploads/products/stainless-steel-products/wall-hand-rails/perpendicular-angle-connector.jpg"
+                        alt="">
                 </div><!-- /.portfolio-img -->
                 <div class="portfolio__content">
-                    <h4 class="portfolio__title"><a href="#">CS SEAMLESS <br>PIPES & TUBES</a></h4>
+                    <h4 class="portfolio__title"><a href="#">Perpendicular <br>Angle Connector</a></h4>
                 </div><!-- /.portfolio-content -->
             </div><!-- /.portfolio-item -->
         </div><!-- /.col-lg-4 -->
         <div class="col-sm-6 col-md-6 col-lg-3">
             <div class="portfolio-item">
                 <div class="portfolio__img">
-                    <img src="/uploads/products/stainless-steel-products/pipes/cs-seamless-pipes-and-tubes.jpg"
-                        alt="portfolio img">
+                    <img src="/uploads/products/stainless-steel-products/wall-hand-rails/2-ways-l-connector.jpg"
+                        alt="">
                 </div><!-- /.portfolio-img -->
                 <div class="portfolio__content">
-                    <h4 class="portfolio__title"><a href="#">DUPLEX SEAMLESS <br> ERW PIPES</a></h4>
+                    <h4 class="portfolio__title"><a href="#">2 Ways L <br> Connector “135°”</a></h4>
                 </div><!-- /.portfolio-content -->
             </div><!-- /.portfolio-item -->
         </div><!-- /.col-lg-4 -->
         <div class="col-sm-6 col-md-6 col-lg-3">
             <div class="portfolio-item">
                 <div class="portfolio__img">
-                    <img src="/uploads/products/stainless-steel-products/pipes/ibr-pipes.jpg" alt="portfolio img">
+                    <img src="/uploads/products/stainless-steel-products/wall-hand-rails/3-sides-l-connector.jpg"
+                        alt="">
                 </div><!-- /.portfolio-img -->
                 <div class="portfolio__content">
-                    <h4 class="portfolio__title"><a href="#">IBR Pipes</a></h4>
+                    <h4 class="portfolio__title"><a href="#">3 Sides L <br> Connector “90°”</a></h4>
                 </div><!-- /.portfolio-content -->
             </div><!-- /.portfolio-item -->
         </div><!-- /.col-lg-4 -->
         <div class="col-sm-6 col-md-6 col-lg-3">
             <div class="portfolio-item">
                 <div class="portfolio__img">
-                    <img src="/uploads/products/stainless-steel-products/pipes/ss-pipe.jpg" alt="portfolio img">
+                    <img src="/uploads/products/stainless-steel-products/wall-hand-rails/upper-l-connector.jpg"
+                        alt="">
                 </div><!-- /.portfolio-img -->
                 <div class="portfolio__content">
-                    <h4 class="portfolio__title"><a href="#">SS Pipes</a></h4>
+                    <h4 class="portfolio__title"><a href="#">Upper L <br> Connector “135°”</a></h4>
                 </div><!-- /.portfolio-content -->
             </div><!-- /.portfolio-item -->
         </div><!-- /.col-lg-4 -->
         <div class="col-sm-6 col-md-6 col-lg-3">
             <div class="portfolio-item">
                 <div class="portfolio__img">
-                    <img src="/uploads/products/stainless-steel-products/pipes/steel-tubes.jpg" alt="portfolio img">
+                    <img src="/uploads/products/stainless-steel-products/wall-hand-rails/frontal-l-connector.jpg"
+                        alt="">
                 </div><!-- /.portfolio-img -->
                 <div class="portfolio__content">
-                    <h4 class="portfolio__title"><a href="#">Steel Tubes</a></h4>
+                    <h4 class="portfolio__title"><a href="#">Frontal L <br> Connector “135</a></h4>
                 </div><!-- /.portfolio-content -->
             </div><!-- /.portfolio-item -->
         </div><!-- /.col-lg-4 -->
         <div class="col-sm-6 col-md-6 col-lg-3">
             <div class="portfolio-item">
                 <div class="portfolio__img">
-                    <img src="/uploads/products/stainless-steel-products/pipes/industrial-pipe.jpg"
-                        alt="portfolio img">
+                    <img src="/uploads/products/stainless-steel-products/wall-hand-rails/fixed-foot.jpg"
+                        alt="">
                 </div><!-- /.portfolio-img -->
                 <div class="portfolio__content">
-                    <h4 class="portfolio__title"><a href="#">iIndustrial Pipe</a></h4>
+                    <h4 class="portfolio__title"><a href="#">Fixed Foot</a></h4>
                 </div><!-- /.portfolio-content -->
             </div><!-- /.portfolio-item -->
         </div><!-- /.col-lg-4 -->
+        <div class="col-sm-6 col-md-6 col-lg-3">
+            <div class="portfolio-item">
+                <div class="portfolio__img">
+                    <img src="/uploads/products/stainless-steel-products/wall-hand-rails/ellipse-end.jpg"
+                        alt="">
+                </div><!-- /.portfolio-img -->
+                <div class="portfolio__content">
+                    <h4 class="portfolio__title"><a href="#">Ellipse End</a></h4>
+                </div><!-- /.portfolio-content -->
+            </div><!-- /.portfolio-item -->
+        </div><!-- /.col-lg-4 -->
+        <div class="col-sm-6 col-md-6 col-lg-3">
+            <div class="portfolio-item">
+                <div class="portfolio__img">
+                    <img src="/uploads/products/stainless-steel-products/wall-hand-rails/curve-connector.jpg"
+                        alt="">
+                </div><!-- /.portfolio-img -->
+                <div class="portfolio__content">
+                    <h4 class="portfolio__title"><a href="#">Curve Connector</a></h4>
+                </div><!-- /.portfolio-content -->
+            </div><!-- /.portfolio-item -->
+        </div><!-- /.col-lg-4 -->
+        <div class="col-sm-6 col-md-6 col-lg-3">
+            <div class="portfolio-item">
+                <div class="portfolio__img">
+                    <img src="/uploads/products/stainless-steel-products/wall-hand-rails/corner-connector.jpg"
+                        alt="">
+                </div><!-- /.portfolio-img -->
+                <div class="portfolio__content">
+                    <h4 class="portfolio__title"><a href="#">Corner Connector</a></h4>
+                </div><!-- /.portfolio-content -->
+            </div><!-- /.portfolio-item -->
+        </div><!-- /.col-lg-4 -->
+        <div class="col-sm-6 col-md-6 col-lg-3">
+            <div class="portfolio-item">
+                <div class="portfolio__img">
+                    <img src="/uploads/products/stainless-steel-products/wall-hand-rails/connector-for-two-tubes.jpg"
+                        alt="">
+                </div><!-- /.portfolio-img -->
+                <div class="portfolio__content">
+                    <h4 class="portfolio__title"><a href="#">Connector for <br> Two Tubes “50mm”</a></h4>
+                </div><!-- /.portfolio-content -->
+            </div><!-- /.portfolio-item -->
+        </div><!-- /.col-lg-4 -->
+        <div class="col-sm-6 col-md-6 col-lg-3">
+            <div class="portfolio-item">
+                <div class="portfolio__img">
+                    <img src="/uploads/products/stainless-steel-products/wall-hand-rails/connector-between-multiple-handrail-levels.jpg"
+                        alt="">
+                </div><!-- /.portfolio-img -->
+                <div class="portfolio__content">
+                    <h4 class="portfolio__title"><a href="#">Connector Between  <br> Multiple Handrail <br> Levels</a></h4>
+                </div><!-- /.portfolio-content -->
+            </div><!-- /.portfolio-item -->
+        </div><!-- /.col-lg-4 -->
+        <div class="col-sm-6 col-md-6 col-lg-3">
+            <div class="portfolio-item">
+                <div class="portfolio__img">
+                    <img src="/uploads/products/stainless-steel-products/wall-hand-rails/l-connector-for-50mm-tubes.jpg"
+                        alt="">
+                </div><!-- /.portfolio-img -->
+                <div class="portfolio__content">
+                    <h4 class="portfolio__title"><a href="#">L Connector for <br> 50mm tubes</a></h4>
+                </div><!-- /.portfolio-content -->
+            </div><!-- /.portfolio-item -->
+        </div><!-- /.col-lg-4 -->
+        <div class="col-sm-6 col-md-6 col-lg-3">
+            <div class="portfolio-item">
+                <div class="portfolio__img">
+                    <img src="/uploads/products/stainless-steel-products/wall-hand-rails/t-connector-for-50mm-tubes.jpg"
+                        alt="">
+                </div><!-- /.portfolio-img -->
+                <div class="portfolio__content">
+                    <h4 class="portfolio__title"><a href="#">T Connector for <br> 50mm tubes</a></h4>
+                </div><!-- /.portfolio-content -->
+            </div><!-- /.portfolio-item -->
+        </div><!-- /.col-lg-4 -->
+        <div class="col-sm-6 col-md-6 col-lg-3">
+            <div class="portfolio-item">
+                <div class="portfolio__img">
+                    <img src="/uploads/products/stainless-steel-products/wall-hand-rails/handrail-column.jpg"
+                        alt="">
+                </div><!-- /.portfolio-img -->
+                <div class="portfolio__content">
+                    <h4 class="portfolio__title"><a href="#">Handrail Column <br>“10mm tubes” for <br> Stairs Sides</a>
+                    </h4>
+                </div><!-- /.portfolio-content -->
+            </div><!-- /.portfolio-item -->
+        </div><!-- /.col-lg-4 -->
+        <div class="col-sm-6 col-md-6 col-lg-3">
+            <div class="portfolio-item">
+                <div class="portfolio__img">
+                    <img src="/uploads/products/stainless-steel-products/wall-hand-rails/handrail-column-50mm-tubes.jpg"
+                        alt="">
+                </div><!-- /.portfolio-img -->
+                <div class="portfolio__content">
+                    <h4 class="portfolio__title"><a href="#">Handrail Column <br> “50mm tubes” Installed <br>Above Stairs</a>
+                    </h4>
+                </div><!-- /.portfolio-content -->
+            </div><!-- /.portfolio-item -->
+        </div><!-- /.col-lg-4 -->
+
+
 
     </div>
 </div>
@@ -244,7 +351,7 @@
 
         <div class="portfolio-item">
             <div class="portfolio__img">
-                <img src="/uploads/products/stainless-steel-products/puddle-flanges/1.jpg" alt="portfolio img">
+                <img src="/uploads/products/stainless-steel-products/puddle-flanges/1.jpg" alt="">
             </div>
 
         </div>
@@ -253,7 +360,7 @@
 
         <div class="portfolio-item">
             <div class="portfolio__img">
-                <img src="/uploads/products/stainless-steel-products/puddle-flanges/2.jpg" alt="portfolio img">
+                <img src="/uploads/products/stainless-steel-products/puddle-flanges/2.jpg" alt="">
             </div>
 
         </div>
@@ -262,7 +369,7 @@
 
         <div class="portfolio-item">
             <div class="portfolio__img">
-                <img src="/uploads/products/stainless-steel-products/puddle-flanges/3.jpg" alt="portfolio img">
+                <img src="/uploads/products/stainless-steel-products/puddle-flanges/3.jpg" alt="">
             </div>
 
         </div>
@@ -271,7 +378,7 @@
 
         <div class="portfolio-item">
             <div class="portfolio__img">
-                <img src="/uploads/products/stainless-steel-products/puddle-flanges/4.jpg" alt="portfolio img">
+                <img src="/uploads/products/stainless-steel-products/puddle-flanges/4.jpg" alt="">
             </div>
 
         </div>
@@ -280,7 +387,7 @@
 
         <div class="portfolio-item">
             <div class="portfolio__img">
-                <img src="/uploads/products/stainless-steel-products/puddle-flanges/5.jpg" alt="portfolio img">
+                <img src="/uploads/products/stainless-steel-products/puddle-flanges/5.jpg" alt="">
             </div>
 
         </div>
@@ -289,7 +396,7 @@
 
         <div class="portfolio-item">
             <div class="portfolio__img">
-                <img src="/uploads/products/stainless-steel-products/puddle-flanges/6.jpg" alt="portfolio img">
+                <img src="/uploads/products/stainless-steel-products/puddle-flanges/6.jpg" alt="">
             </div>
 
         </div>
