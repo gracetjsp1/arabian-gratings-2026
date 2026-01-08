@@ -336,7 +336,7 @@
         </div><!-- /.col-lg-4 -->
 
 
-
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, distinctio! Iusto numquam illum voluptatum praesentium fugiat molestias exercitationem in possimus odit rerum cumque, fugit sit doloribus nulla. Vitae, mollitia asperiores.</p>
     </div>
 </div>
 
